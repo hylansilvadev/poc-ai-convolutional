@@ -1,0 +1,8 @@
+.venv/
+*.lock
+**/__pycache__/*
+.idea/
+.vscode/
+.pytest_cache
+
+src/resources/*.h5
